@@ -20,16 +20,6 @@
 
 function capitalizados() {
     //! Sólo la primera letra
-    const hulk       = 'brouce banner';
-    const Hawkeye    = 'cinton francis';
-    const ironman    = 'tony stark';
-    const spiderman  = 'peter parker';
-    const viudaNegra = 'natalia romanova';
-
-}
-
-function minusculas() {
-
     const HULK       = 'brouce banner';
     const HAWKEYE    = 'cinton francis';
     const IRONMAN    = 'tony stark';
@@ -38,8 +28,15 @@ function minusculas() {
 
 }
 
+function minusculas() {
 
+    const hulk       = 'brouce banner';
+    const hawkeye    = 'cinton francis';
+    const ironman    = 'tony stark';
+    const spiderman  = 'peter parker';
+    const viudanegra = 'natalia romanova';
 
+}
 // Objetivo final (sin los comentarios)
 
 function capitalizadosDemo() {
